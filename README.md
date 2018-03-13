@@ -1,3 +1,3 @@
 # My Portfolio
 
-A showcawse of my work at Bloc.
+A showcase of my work at Bloc.
